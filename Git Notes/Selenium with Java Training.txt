@@ -1,0 +1,70 @@
+	
+
+	Manual Testing
+	SQL
+	Core Java
+	Selenium
+	Maven
+	Git
+	TestNG
+	
+1. Git/Git Hub:
+	Source Code Management Tool. Version control software.
+
+	GitHub : GitHub is the web portal we we maintain our repositories.
+
+	Git :  Git is a version control softaware. Using this Git, we can clone the repositiory from github to our local system. 
+	           It is also used to commit your changes to central repository. Barching and tagging concepts are used.
+	
+	1. https://github.com  >> Create your user.
+	2. Created a repository	https://github.com/ramanswamy/ST_APR_13_2022.git
+	3. Clone the respository
+2. Git
+	1. Download git from here and install.   https://git-scm.com/
+
+3. Clone the repository
+
+	Git Commands:
+
+		Git clone :  This is to clone the repository to your local drive from central repository.
+
+		git clone -b main  https://github.com/ramanswamy/ST_APR_13_2022.git
+
+	Committing changes to Central Repository:
+
+		git add <filename> 	   					>> This is to add single file to the staging area temporarily.
+		git add .							>> This is to add all files to the staging area temporarily.
+		git commit -m "Updated README.md and added 2 more files"		>> To commit your changes to local repository
+		git push origin main		>> To push your changes to central repository.
+		git status 			>> To see the status of your repository
+		
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+		
+
+
+
+	
+	
+	
+	
+	
+
