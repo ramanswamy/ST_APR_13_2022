@@ -49,7 +49,56 @@ Git/Git Hub
 18-Apr-2022:
 	
 	git checkout <branch name>	:  To switch to another branch from current branch.
+	e.g. git checkout main
 
+
+	git pull	>>  To get latest changes from remote repository to your local repository. This will pull and merge to your local.
+
+	git fetch   >> To get latest changes from remote repository to your local repository. But will not merge.
+	git merge <branch name>	>> To marge specified branch to your local repo.
+
+Git Branching:
+
+	Whenever you create a new repository, main branch will be the default branch.
+	The branch can be created in two ways. 
+		1. You can create it from remote repository
+		2. You can create it from your local repository and push it to remote.
+	main
+	rc_sales_invoice :  1st quarter
+		Sprint1  >> Jir1, Jira2, Jira3, Jira4
+			Jira1 - Assigned to Senthil
+			Jira2 - Assigned to Karthik
+			Jira3 - Assigned to James
+		Sprint2
+			Jira4- 
+			Jira5-
+			Jira6-
+		Sprint3
+	
+	When the developers or tester work on their individual user stories they can create feature branch from release branch and work.
+	
+	
+	rc_purchase_order	:  2nd quarter
+	rc_production	: 3rd quarter
+
+
+	git checkout -b <branch name>	
+	e.g. git checkout -b rc_purchase_order
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+	
 			
 
 
