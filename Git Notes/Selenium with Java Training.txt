@@ -1,13 +1,16 @@
 	
+13-Apr-2022: [Starting Date]	
 
 	Manual Testing
 	SQL
 	Core Java
 	Selenium
 	Maven
-	Git
+	Git/GitHub
 	TestNG
-	
+
+Git/Git Hub
+---------------	
 1. Git/Git Hub:
 	Source Code Management Tool. Version control software.
 
@@ -15,12 +18,12 @@
 
 	Git :  Git is a version control softaware. Using this Git, we can clone the repositiory from github to our local system. 
 	           It is also used to commit your changes to central repository. Barching and tagging concepts are used.
-	
+	x
 	1. https://github.com  >> Create your user.
 	2. Created a repository	https://github.com/ramanswamy/ST_APR_13_2022.git
 	3. Clone the respository
 2. Git
-	1. Download git from here and install.   https://git-scm.com/
+	1. Download git(Windows installable) from here and install.   https://git-scm.com/
 
 3. Clone the repository
 
@@ -39,7 +42,15 @@
 		git status 			>> To see the status of your repository
 		
 
+14-Apr-2022:
+
+	https://github.com/ramanswamy/ST_APR_13_2022.git
+
+18-Apr-2022:
 	
+	git checkout <branch name>	:  To switch to another branch from current branch.
+
+			
 
 
 
